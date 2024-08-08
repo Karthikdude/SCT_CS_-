@@ -60,7 +60,7 @@
 
 1. **Start the Flask Application**:
     ```bash
-    python app.py
+    python textencrypter.py
     ```
 
 2. **Access the Application**:

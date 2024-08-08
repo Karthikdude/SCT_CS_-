@@ -30,9 +30,9 @@
 
 ## Usage
 
-1. **Run the Flask Application**:
+1. **Run the Flask textencrypterlication**:
     ```bash
-    python app.py
+    python textencrypter.py
     ```
     The application will start and be accessible at `http://127.0.0.1:5000/`.
 
@@ -44,7 +44,7 @@
 
 ## Code Explanation
 
-- **`app.py`**: The main file that contains the Flask application and Caesar cipher logic.
+- **`textencrypter.py`**: The main file that contains the Flask application and Caesar cipher logic.
   - **Routes**:
     - `/`: Renders the main page with the input form.
     - `/encrypt`: Handles text encryption and returns the result.
